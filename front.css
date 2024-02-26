@@ -1,0 +1,10 @@
+body .home{
+    
+    background: url('https://cdn.vsite.biz/rubriks/obsee_obrazovanie/26.jpg') no-repeat scroll center center;
+    
+    background-size: cover;
+    position: relative;
+    padding-top: 250px;
+    padding-bottom: 200px;
+    width: 100%;
+}
